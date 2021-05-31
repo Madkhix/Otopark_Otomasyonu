@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Otopark Otomasyonu", "Otopark Otomasyonu\Otopark Otomasyonu.csproj", "{B7CACAAC-0FDC-45D7-B8F9-258B2E0898D6}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "OtoparkSetup", "C:\Users\Erol Berk Okuducu\Desktop\OtoparkSetup\OtoparkSetup\OtoparkSetup.vdproj", "{84736561-555E-4D96-9F8A-9F705E112792}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Otopark_Setup", "C:\Users\Erol Berk Okuducu\Desktop\Ders Dökümanları\Nesne Tabanlı Programlama Proje\OtoparkSetup\Otopark_Setup\Otopark_Setup.vdproj", "{6A2A4961-E5FE-493A-A27E-0E37B78535A6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B7CACAAC-0FDC-45D7-B8F9-258B2E0898D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7CACAAC-0FDC-45D7-B8F9-258B2E0898D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7CACAAC-0FDC-45D7-B8F9-258B2E0898D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7CACAAC-0FDC-45D7-B8F9-258B2E0898D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84736561-555E-4D96-9F8A-9F705E112792}.Debug|Any CPU.ActiveCfg = Debug
+		{84736561-555E-4D96-9F8A-9F705E112792}.Release|Any CPU.ActiveCfg = Release
+		{6A2A4961-E5FE-493A-A27E-0E37B78535A6}.Debug|Any CPU.ActiveCfg = Debug
+		{6A2A4961-E5FE-493A-A27E-0E37B78535A6}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {59009ACA-446F-4713-965B-861C1F16CED3}
+	EndGlobalSection
+EndGlobal

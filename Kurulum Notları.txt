@@ -1,0 +1,4 @@
+Uygulamayı kurmak için Otopark_Setup'ı çalıştırın ve gelen sekmelerde ileri butonuna tıkalyınız.
+Uygulamanın çalışması için ise bilgisayarınızda Microsoft SQL Management Server Studio bulunması
+gereklidir. Benim sunduğum veri tabanının kendi Microsoft SQL Management Server Studio 
+uygulamanızın veritabanına eklerseniz sorunsuz bir şekilde çalışacaktır.
